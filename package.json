@@ -1,0 +1,46 @@
+{
+  "name": "youtube-rip",
+  "version": "1.0.0",
+  "description": "Python, PHP, JavaScript, Bootstrap, NPM, Composer, youtube-dl.exe & MySQL based web application for dynamically and automatically reading and ripping YouTube videos based on channel input, URL, etc. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amg262/youtube-rip.git"
+  },
+  "author": "amg262",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amg262/youtube-rip/issues"
+  },
+  "homepage": "https://github.com/amg262/youtube-rip#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {
+    "jquery": "^3.3.1",
+    "jquery": "^3.3.1",
+    "jquery-ui": "^1.12.1",
+    "select2": "^4.0.6-rc.1",
+    "sweetalert": "^2.1.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-file": "^0.3.0",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-postcss": "^6.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.1",
+    "gulp-unzip": "^0.2.0",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11",
+    "gulp-zip": "^4.0.0",
+    "browser-sync": "^2.18.8",
+    "chartjs": "^0.3.24",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
